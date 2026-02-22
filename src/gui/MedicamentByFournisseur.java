@@ -90,7 +90,6 @@ public class MedicamentByFournisseur extends javax.swing.JInternalFrame {
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel1.setText("Fournisseur :");
 
-        jComboBox1.setBackground(new java.awt.Color(0, 0, 0));
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBox1ActionPerformed(evt);

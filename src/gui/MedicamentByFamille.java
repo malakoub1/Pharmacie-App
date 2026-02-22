@@ -92,7 +92,6 @@ private DefaultTableModel model;
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel1.setText("Famille :");
 
-        jComboBox1.setBackground(new java.awt.Color(0, 0, 0));
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 MedicamentParFamilleActionPerformed(evt);
