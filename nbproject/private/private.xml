@@ -3,34 +3,31 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Service/FournisseurService.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Dao/MedicamentDAO.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Service/FournisseurService.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Dao/VenteDAOImpl.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/gui/FournisseurForm.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Dao/FournisseurDAOImpl.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Dao/VenteDAO.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Dao/IUserDao.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Dao/VenteDAO.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/util/PasswordUtil.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/util/Config.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/gui/VenteByDate.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/model/User.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/util/DBConnection.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/main/AppLauncher.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Dao/FournisseurDAO.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/gui/Main.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Service/EmailService.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/gui/VenteForm.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/model/Vente.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Service/StockAlertService.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/pharmacie/app/PharmacieApp.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/gui/Login.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/model/Medicament.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Service/VenteService.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/model/Fournisseur.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/gui/MedicamentByFournisseur.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Dao/GenericDAO.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Service/MedicamentService.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/main/Launcher.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/gui/MedicamentByFamille.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/gui/MedicamentForm.java</file>
             <file>file:/C:/Users/PC/Documents/NetBeansProjects/Pharmacie-App/src/Dao/MedicamentDAOImpl.java</file>

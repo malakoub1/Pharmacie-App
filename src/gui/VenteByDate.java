@@ -50,10 +50,18 @@ public class VenteByDate extends javax.swing.JInternalFrame {
         setResizable(true);
         setTitle("Vente Par Date");
 
+        jPanel1.setBackground(new java.awt.Color(226, 250, 226));
+        jPanel1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+
+        jLabel1.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel1.setText("Date 1 :");
 
+        jLabel2.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel2.setText("Date 2 :");
 
+        jButton1.setBackground(new java.awt.Color(0, 0, 0));
+        jButton1.setFont(new java.awt.Font("Segoe UI Black", 0, 16)); // NOI18N
+        jButton1.setForeground(new java.awt.Color(0, 102, 0));
         jButton1.setText("Recherche");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
