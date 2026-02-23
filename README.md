@@ -31,16 +31,16 @@ Les pharmacies rencontrent souvent plusieurs difficultés dans leur gestion quot
 - Gestion manuelle des ventes peu fiable
 - Manque de centralisation des informations fournisseurs
 - Absence de statistiques pour analyser les ventes
-Ces limites rendent la gestion moins efficace et compliquent la prise de décision.
+- Ces limites rendent la gestion moins efficace et compliquent la prise de décision.
 
 ---
 ## 🎯 Objectif:
 L’objectif de ce projet est de développer une application desktop permettant de faciliter la gestion d’une pharmacie à travers une interface simple et intuitive.
 L’application vise à :
-Gérer les médicaments et leur stock
-Organiser les fournisseurs
-Enregistrer les ventes
-Générer des statistiques utiles à la prise de décision
+- Gérer les médicaments et leur stock
+- Organiser les fournisseurs
+- Enregistrer les ventes
+- Générer des statistiques utiles à la prise de décision
 
 ---
 ## L'application doit :
