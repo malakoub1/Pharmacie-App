@@ -26,11 +26,11 @@ Afin d’améliorer la gestion quotidienne d’une pharmacie, il est nécessaire
 ## ❓ Problématique:
 
 Les pharmacies rencontrent souvent plusieurs difficultés dans leur gestion quotidienne :
-Difficulté à suivre le stock réel des médicaments
-Risque de rupture ou de surstock
-Gestion manuelle des ventes peu fiable
-Manque de centralisation des informations fournisseurs
-Absence de statistiques pour analyser les ventes
+- Difficulté à suivre le stock réel des médicaments
+- Risque de rupture ou de surstock
+- Gestion manuelle des ventes peu fiable
+- Manque de centralisation des informations fournisseurs
+- Absence de statistiques pour analyser les ventes
 Ces limites rendent la gestion moins efficace et compliquent la prise de décision.
 
 ---
